@@ -1,0 +1,7 @@
+.resize{
+    resize: none;
+}
+
+td , th {
+    max-width: 580.283px !important;
+}
